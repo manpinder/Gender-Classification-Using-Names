@@ -1,2 +1,2 @@
 
-Tech Stack-Deep learning (using LSTM)
+Tech Stack- Deep learning (using LSTM)
